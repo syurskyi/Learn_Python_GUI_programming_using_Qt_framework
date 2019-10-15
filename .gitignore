@@ -46,3 +46,28 @@ venv/
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+github/.gitignore
+github/1 - Alarm/
+github/10 - Standard Dialogs/
+github/13 - Incorporating UI in code/
+github/14 - Threading/
+github/15 - Resource Files/icons.qrc
+github/15 - Resource Files/icons_rc.py
+github/15 - Resource Files/main.ui
+github/15 - Resource Files/mainGui.py
+github/15 - Resource Files/resource-file.py
+github/16 - QMainWindow/QMainWindow.py
+github/16 - QMainWindow/icons.qrc
+github/16 - QMainWindow/icons_rc.py
+github/16 - QMainWindow/mainGui.py
+github/16 - QMainWindow/mainWindow.ui
+github/2 - Calculator/
+github/3 - Currency Converter/
+github/4 - Signals/
+github/6 - More Signals/
+github/8 - QFileDialog Class/
+github/9 - Dumb Dialogs/
+github/LICENSE
+github/PyDataMan/
+github/README.md
+github/python3code/
